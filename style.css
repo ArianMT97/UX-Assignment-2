@@ -326,6 +326,41 @@ nav a.active {
   margin-bottom: 40px;
 }
 
+/* Trips page */
+
+.trips-section {
+  padding: 80px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.trips-section h1 {
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+.trips-intro {
+  color: #666;
+  margin-bottom: 40px;
+}
+
+.trips-box {
+  background-color: #dff6fb;
+  padding: 60px 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.no-trips {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+body.trips-page {
+  background-color: #dff6fb;
+}
+
 /* Tablet screens */
 
 @media screen and (max-width: 900px) {
