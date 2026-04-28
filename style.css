@@ -206,6 +206,12 @@ nav a.active {
   margin: 0 15px 20px;
 }
 
+.city-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 /* Video Section */
 
 .video-section {
