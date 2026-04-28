@@ -332,6 +332,7 @@ nav a.active {
   padding: 80px 20px;
   max-width: 1000px;
   margin: 0 auto;
+  min-height: calc(100vh - 80px);
 }
 
 .trips-section h1 {
