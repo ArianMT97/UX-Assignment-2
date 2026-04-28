@@ -76,3 +76,57 @@ nav a:hover {
   color: #333;
   border: 1px solid #ccc;
 }
+/* Features section */
+
+.features {
+  background-color: #f7f7f4;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.features h2 {
+  font-size: 40px;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.features-intro {
+  font-size: 20px;
+  color: #666;
+  margin-bottom: 100px;
+}
+
+.feature-boxes {
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.feature {
+  width: 30%;
+}
+
+.icon {
+  width: 70px;
+  height: 70px;
+  background-color: #e3f4f5;
+  color: #1598b8;
+  font-size: 35px;
+  margin: 0 auto 25px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature h3 {
+  font-size: 26px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.feature p {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.5;
+}
