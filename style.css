@@ -58,7 +58,8 @@ nav a:hover {
   margin-top: 30px;
 }
 
-.buttons a {
+.buttons a,
+.cta-buttons .main-button {
   display: inline-block;
   text-decoration: none;
   padding: 15px 30px;
@@ -214,6 +215,39 @@ nav a:hover {
   object-fit: cover;
 }
 
+/* CTA Section */
+
+.cta-section {
+  background-color: #f7f7f4;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.cta-section h2 {
+  font-size: 40px;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.cta-section p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.link-button {
+  text-decoration: none;
+  color: #1598b8;
+  font-size: 18px;
+}
+
 /* Tablet screens */
 
 @media screen and (max-width: 900px) {
@@ -272,7 +306,8 @@ nav a:hover {
     font-size: 16px;
   }
 
-  .buttons a {
+  .buttons a,
+  .cta-buttons .main-button {
     display: block;
     width: 80%;
     margin: 10px auto;
@@ -312,8 +347,16 @@ nav a:hover {
   .city-card img {
     height: 220px;
   }
-  
+
   .video-container video {
     height: 250px;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+  }
+
+  .link-button {
+    margin-top: 10px;
   }
 }
