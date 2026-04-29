@@ -371,6 +371,8 @@ body.trips-page {
 
 body.login-page {
   background-color: #dff6fb;
+  min-height: calc(100vh - 80px);
+  overflow-y: scroll;
 }
 
 .login-section {
