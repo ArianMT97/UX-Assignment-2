@@ -187,7 +187,7 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
  - When Sam has finished creating his trip plan, the system should store the trip in his account so he can access or edit it later.
 
 
-# Website screenshots with justifications: 
+## Wireframe screenshots with justifications: 
 
 ![homescreen light mode](https://github.com/user-attachments/assets/61e3c93b-d1b1-47e9-9dfa-10fd10153f0c)
 ![UXHomescreen1](https://github.com/user-attachments/assets/d72d2f56-fd18-42b5-a1b1-35ba6515c436)
@@ -210,6 +210,8 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 ## Colour Contrast Analysis
 
 <img width="1384" height="731" alt="Screenshot 2026-03-07 at 23 16 06" src="https://github.com/user-attachments/assets/5bf8ec40-0f40-46d1-9ab0-1a9697888494" />
+
+# Revised Website
 
 
 ## References 
