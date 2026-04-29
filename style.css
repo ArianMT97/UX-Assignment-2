@@ -80,7 +80,7 @@ nav a.active {
   padding: 15px 30px;
   border-radius: 8px;
   margin: 10px;
-  background-color: #1598b8;
+  background-color: black;
   color: white;
 }
 
@@ -333,6 +333,7 @@ nav a.active {
   max-width: 1000px;
   margin: 0 auto;
   min-height: calc(100vh - 80px);
+  text-align: center;
 }
 
 .trips-section h1 {
@@ -347,7 +348,7 @@ nav a.active {
 }
 
 .trips-box {
-  background-color: #dff6fb;
+  background-color: white;
   padding: 60px 20px;
   border-radius: 15px;
   text-align: center;
