@@ -22,11 +22,15 @@ header {
 header h2 {
   color: #1598b8;
   margin: 0;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.2;
 }
 
 header h2 a {
   text-decoration: none;
   color: #1598b8;
+  font-size: 24px;
 }
 
 /* Navigation */
@@ -361,6 +365,22 @@ nav a.active {
 
 body.trips-page {
   background-color: #dff6fb;
+}
+
+/* Login page (Bootstrap 5.3.3) */
+
+body.login-page {
+  background-color: #dff6fb;
+}
+
+.login-section {
+  padding: 60px 20px;
+}
+
+.login-section .col-md-5 {
+  background-color: white;
+  padding: 30px;
+  border-radius: 15px;
 }
 
 /* Tablet screens */
