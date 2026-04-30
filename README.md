@@ -1,7 +1,7 @@
 # **Website-Design-Assignment**
 
 ## Contents
-
+- [Website link](#website-link)
 - [User personas](#user-personas)
   - [Frequent User (Deshan):](#frequent-user-deshan)
   - [Returning User (John):](#returning-user-john)
@@ -12,7 +12,9 @@
 - [Changes Made](#changes-made)
 - [References](#references)
 
+# Website link:
 
+https://arianmt97.github.io/UX-Assignment-2/
 
 ## User personas:
 
