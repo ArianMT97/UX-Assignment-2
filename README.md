@@ -213,7 +213,15 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 
 # Revised Website
 
-
+![homescreen1](images/homescreen1.JPG)
+![homescreen2](images/homescreen2.JPG)
+![homescreen3](images/homescreen3.JPG)
+![homescreen4](images/homescreen4.JPG)
+![citiespage](images/citiespage.JPG)
+![comingsoon](images/comingsoon.JPG)
+![tripspages](images/tripspage.JPG)
+![signup](images/signup.JPG)
+![signin](images/signin.JPG)
 ## References 
 
 Bootstrap. (n.d.). Bootstrap 5: The most popular HTML, CSS, and JS library. [online] Available at: https://getbootstrap.com/
