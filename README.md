@@ -222,6 +222,23 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 ![tripspages](images/tripspage.JPG)
 ![signup](images/signup.JPG)
 ![signin](images/signin.JPG)
+
+## Side-note
+
+All the screenshots from the original wireframe were taken while darkmode was on. To see the original see the PDF file in the 'Wireframe' folder.
+
+## Changes Made
+
+- 	I changed the call-to-action button to a darker colour to improve the contrast between the button, the text, and the background. This makes the button easier to read and helps it stand out more clearly as an important action for the user. This change can be seen throughout the website with different buttons. 
+
+-   The Map section is a much simpler version of the wireframe, this is due to time limitation for this project.
+  
+-   Daily Activities page missing due to how complex it was in the original design and would not be manageable without heavy use of JavaScript.
+  
+-   'My Trips', 'Daily Activities' and 'Login' pages are changed to have the same blue background compared to the white used in the original design to help the content better stand out.
+  
+-   I moved the “My Trips” heading to the centre of the page to make the layout look more balanced and consistent with the rest of the website. This also helps the page feel more organised and makes the main title easier for users to notice.  
+
 ## References 
 
 Bootstrap. (n.d.). Bootstrap 5: The most popular HTML, CSS, and JS library. [online] Available at: https://getbootstrap.com/
