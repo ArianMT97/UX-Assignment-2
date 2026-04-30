@@ -1,6 +1,16 @@
 # **Website-Design-Assignment**
 
+## Contents
 
+- [User personas](#user-personas)
+  - [Frequent User (Deshan):](#frequent-user-deshan)
+  - [Returning User (John):](#returning-user-john)
+  - [New User (Sam):](#new-user-sam)
+- [Wireframe screenshots with justifications:](#wireframe-screenshots-with-justifications)
+- [Colour Contrast Analysis](#colour-contrast-analysis)
+- [Revised Website](#revised-website)
+- [Changes Made](#changes-made)
+- [References](#references)
 
 
 
